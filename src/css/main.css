@@ -40,6 +40,10 @@ body {
   gap: 20px;
   border-radius: 32px;
   background: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  text-transform: uppercase;
 }
 
 .tools {
@@ -55,6 +59,9 @@ body {
   align-items: center;
   border-radius: 32px;
   background: #fff;
+  font-weight: 700;
+  line-height: 24px;
+  text-transform: uppercase;
 }
 
 .contact {
